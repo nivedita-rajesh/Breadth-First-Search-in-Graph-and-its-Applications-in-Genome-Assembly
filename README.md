@@ -1,1 +1,1 @@
-# Improving-de-Bruijn-Graph-Construction-using-HaVec-Approach-
+# Improving de-Bruijn Graph Construction using HaVec Approach
