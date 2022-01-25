@@ -1,0 +1,9 @@
+{
+	"name":"data1",
+	"short_read_length":100,
+	"pair_distance":500,
+	"standard_deviation":0,
+	"short_read_eoor_rate":0,
+	"long_read_length":1000,
+	"long_read_error_rate:0.1"
+}
