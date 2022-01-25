@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1QS3aRr-EkaEsGNNmB4K4qN9EN-Z06xya
 """
 
-file=open('Breadth-First-Search-in-Graph-and-its-Applications-in-Genome-Assembly\data1\short_1.fasta','r')
+file=open('data1\short_1.fasta','r')
 reads=[]
 lines=file.readlines()
 for i in range(0,len(lines)):
